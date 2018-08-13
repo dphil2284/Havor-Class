@@ -9,7 +9,8 @@
           "variant": "default",
           "props": {
             "style": {
-              "color": "#6b6161"
+              "color": "#ff1f1f",
+              "fontSize": "23px"
             }
           },
           "children": [
@@ -29,12 +30,12 @@
               "children": [
                 {
                   "type": "span",
-                  "text": "Hello Colorful World 🖍",
+                  "text": "Hello Colorful World sss 🖍",
                   "props": {
                     "style": {
                       "lineHeight": "20px",
-                      "backgroundColor": "#b8e986",
-                      "color": "#4a90e2"
+                      "backgroundColor": "#ffffff",
+                      "color": "#406da2"
                     }
                   }
                 }

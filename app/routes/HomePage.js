@@ -13,7 +13,7 @@ class HomePage extends Component {
     return (
       <div>
 
-        <div style={{ color: "#6b6161" }}>
+        <div style={{ color: "#ff1f1f", fontSize: "23px" }}>
           <div
             style={{
               height: "100px",
@@ -27,11 +27,11 @@ class HomePage extends Component {
             <span
               style={{
                 lineHeight: "20px",
-                backgroundColor: "#b8e986",
-                color: "#4a90e2"
+                backgroundColor: "#ffffff",
+                color: "#406da2"
               }}
             >
-              Hello Colorful World 🖍
+              Hello Colorful World sss 🖍
             </span>
           </div>
         </div>
